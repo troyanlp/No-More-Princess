@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 16bb59f9111702e488ab627e916747a8
+timeCreated: 1456998995
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Boca
+    100002: Box001
+    100004: Box002
+    100006: //RootNode
+    100008: Helper001
+    100010: Ojo001
+    100012: Ojo002
+    100014: Plane001
+    100016: Plane002
+    100018: Plane003
+    100020: Plane004
+    100022: Plane005
+    100024: Plane006
+    100026: Plane007
+    100028: Plane008
+    100030: Plane010
+    100032: Plane011
+    100034: Sphere001
+    400000: Boca
+    400002: Box001
+    400004: Box002
+    400006: //RootNode
+    400008: Helper001
+    400010: Ojo001
+    400012: Ojo002
+    400014: Plane001
+    400016: Plane002
+    400018: Plane003
+    400020: Plane004
+    400022: Plane005
+    400024: Plane006
+    400026: Plane007
+    400028: Plane008
+    400030: Plane010
+    400032: Plane011
+    400034: Sphere001
+    2300000: Boca
+    2300002: Box001
+    2300004: Box002
+    2300006: Ojo001
+    2300008: Ojo002
+    2300010: Plane001
+    2300012: Plane002
+    2300014: Plane003
+    2300016: Plane004
+    2300018: Plane005
+    2300020: Plane006
+    2300022: Plane007
+    2300024: Plane008
+    2300026: Plane010
+    2300028: Plane011
+    2300030: Sphere001
+    3300000: Boca
+    3300002: Box001
+    3300004: Box002
+    3300006: Ojo001
+    3300008: Ojo002
+    3300010: Plane001
+    3300012: Plane002
+    3300014: Plane003
+    3300016: Plane004
+    3300018: Plane005
+    3300020: Plane006
+    3300022: Plane007
+    3300024: Plane008
+    3300026: Plane010
+    3300028: Plane011
+    3300030: Sphere001
+    4300000: Plane010
+    4300002: Plane011
+    4300004: Plane005
+    4300006: Plane006
+    4300008: Plane003
+    4300010: Plane007
+    4300012: Plane008
+    4300014: Plane004
+    4300016: Plane002
+    4300018: Ojo002
+    4300020: Ojo001
+    4300022: Boca
+    4300024: Plane001
+    4300026: Box001
+    4300028: Sphere001
+    4300030: Box002
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

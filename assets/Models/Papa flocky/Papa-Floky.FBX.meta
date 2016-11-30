@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 00bbb1e26437d51458ed6bcc111159ef
+timeCreated: 1457001104
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Boca
+    100002: Box001
+    100004: Box002
+    100006: Box003
+    100008: Box004
+    100010: Helper001
+    100012: Helper002
+    100014: Ojo001
+    100016: Ojo002
+    100018: //RootNode
+    100020: Papa-Floky
+    100022: Plane001
+    100024: Plane002
+    100026: Plane003
+    100028: Plane004
+    100030: Plane005
+    100032: Plane006
+    100034: Plane007
+    100036: Plane008
+    100038: Plane010
+    100040: Plane011
+    100042: Sphere001
+    400000: Boca
+    400002: Box001
+    400004: Box002
+    400006: Box003
+    400008: Box004
+    400010: Helper001
+    400012: Helper002
+    400014: Ojo001
+    400016: Ojo002
+    400018: //RootNode
+    400020: Papa-Floky
+    400022: Plane001
+    400024: Plane002
+    400026: Plane003
+    400028: Plane004
+    400030: Plane005
+    400032: Plane006
+    400034: Plane007
+    400036: Plane008
+    400038: Plane010
+    400040: Plane011
+    400042: Sphere001
+    2300000: Boca
+    2300002: Box001
+    2300004: Box002
+    2300006: Box003
+    2300008: Box004
+    2300010: Ojo001
+    2300012: Ojo002
+    2300014: Plane001
+    2300016: Plane002
+    2300018: Plane003
+    2300020: Plane004
+    2300022: Plane005
+    2300024: Plane006
+    2300026: Plane007
+    2300028: Plane008
+    2300030: Plane010
+    2300032: Plane011
+    2300034: Sphere001
+    3300000: Boca
+    3300002: Box001
+    3300004: Box002
+    3300006: Box003
+    3300008: Box004
+    3300010: Ojo001
+    3300012: Ojo002
+    3300014: Plane001
+    3300016: Plane002
+    3300018: Plane003
+    3300020: Plane004
+    3300022: Plane005
+    3300024: Plane006
+    3300026: Plane007
+    3300028: Plane008
+    3300030: Plane010
+    3300032: Plane011
+    3300034: Sphere001
+    4300000: Sphere001
+    4300002: Box001
+    4300004: Boca
+    4300006: Ojo001
+    4300008: Plane002
+    4300010: Box002
+    4300012: Plane003
+    4300014: Plane007
+    4300016: Plane010
+    4300018: Plane011
+    4300020: Ojo002
+    4300022: Plane008
+    4300024: Plane005
+    4300026: Plane004
+    4300028: Plane006
+    4300030: Box003
+    4300032: Box004
+    4300034: Plane001
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

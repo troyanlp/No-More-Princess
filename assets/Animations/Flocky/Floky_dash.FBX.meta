@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: fcb9b1915940f79458ba5ca2eddf0372
+timeCreated: 1456999011
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Boca
+    100002: Boca001
+    100004: Box001
+    100006: Box002
+    100008: Box003
+    100010: Box004
+    100012: Floky
+    100014: Floky001
+    100016: //RootNode
+    100018: Helper001
+    100020: Ojo001
+    100022: Ojo002
+    100024: Ojo003
+    100026: Ojo004
+    100028: Plane001
+    100030: Plane002
+    100032: Plane003
+    100034: Plane004
+    100036: Plane005
+    100038: Plane006
+    100040: Plane007
+    100042: Plane008
+    100044: Plane010
+    100046: Plane011
+    100048: Plane012
+    100050: Plane013
+    100052: Plane014
+    100054: Plane015
+    100056: Plane016
+    100058: Plane017
+    100060: Plane018
+    100062: Plane019
+    100064: Plane020
+    100066: Plane021
+    100068: Sphere001
+    100070: Sphere002
+    100072: Sphere003
+    400000: Boca
+    400002: Boca001
+    400004: Box001
+    400006: Box002
+    400008: Box003
+    400010: Box004
+    400012: Floky
+    400014: Floky001
+    400016: //RootNode
+    400018: Helper001
+    400020: Ojo001
+    400022: Ojo002
+    400024: Ojo003
+    400026: Ojo004
+    400028: Plane001
+    400030: Plane002
+    400032: Plane003
+    400034: Plane004
+    400036: Plane005
+    400038: Plane006
+    400040: Plane007
+    400042: Plane008
+    400044: Plane010
+    400046: Plane011
+    400048: Plane012
+    400050: Plane013
+    400052: Plane014
+    400054: Plane015
+    400056: Plane016
+    400058: Plane017
+    400060: Plane018
+    400062: Plane019
+    400064: Plane020
+    400066: Plane021
+    400068: Sphere001
+    400070: Sphere002
+    400072: Sphere003
+    2300000: Boca
+    2300002: Boca001
+    2300004: Box001
+    2300006: Box002
+    2300008: Box003
+    2300010: Box004
+    2300012: Ojo001
+    2300014: Ojo002
+    2300016: Ojo003
+    2300018: Ojo004
+    2300020: Plane001
+    2300022: Plane002
+    2300024: Plane003
+    2300026: Plane004
+    2300028: Plane005
+    2300030: Plane006
+    2300032: Plane007
+    2300034: Plane008
+    2300036: Plane010
+    2300038: Plane011
+    2300040: Plane012
+    2300042: Plane013
+    2300044: Plane014
+    2300046: Plane015
+    2300048: Plane016
+    2300050: Plane017
+    2300052: Plane018
+    2300054: Plane019
+    2300056: Plane020
+    2300058: Plane021
+    2300060: Sphere001
+    2300062: Sphere002
+    2300064: Sphere003
+    3300000: Boca
+    3300002: Boca001
+    3300004: Box001
+    3300006: Box002
+    3300008: Box003
+    3300010: Box004
+    3300012: Ojo001
+    3300014: Ojo002
+    3300016: Ojo003
+    3300018: Ojo004
+    3300020: Plane001
+    3300022: Plane002
+    3300024: Plane003
+    3300026: Plane004
+    3300028: Plane005
+    3300030: Plane006
+    3300032: Plane007
+    3300034: Plane008
+    3300036: Plane010
+    3300038: Plane011
+    3300040: Plane012
+    3300042: Plane013
+    3300044: Plane014
+    3300046: Plane015
+    3300048: Plane016
+    3300050: Plane017
+    3300052: Plane018
+    3300054: Plane019
+    3300056: Plane020
+    3300058: Plane021
+    3300060: Sphere001
+    3300062: Sphere002
+    3300064: Sphere003
+    4300000: Plane010
+    4300002: Plane011
+    4300004: Plane005
+    4300006: Plane006
+    4300008: Plane003
+    4300010: Plane007
+    4300012: Plane008
+    4300014: Plane004
+    4300016: Plane002
+    4300018: Ojo002
+    4300020: Ojo001
+    4300022: Plane001
+    4300024: Boca
+    4300026: Box001
+    4300028: Box002
+    4300030: Sphere001
+    4300032: Ojo003
+    4300034: Plane012
+    4300036: Plane013
+    4300038: Plane014
+    4300040: Plane015
+    4300042: Plane016
+    4300044: Plane017
+    4300046: Plane018
+    4300048: Plane019
+    4300050: Plane020
+    4300052: Ojo004
+    4300054: Plane021
+    4300056: Boca001
+    4300058: Box003
+    4300060: Box004
+    4300062: Sphere002
+    4300064: Sphere003
+    7400000: Floky Dash
+    9500000: //RootNode
+    13700000: Sphere001
+    13700002: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Floky Dash
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helper001
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
